@@ -39,7 +39,6 @@
     self.classMember4 = @"4";
     classMember5 = @"5";
     self.classMember6 = @"6";
-    _cla
     // Do any additional setup after loading the view, typically from a nib.
 }
 
